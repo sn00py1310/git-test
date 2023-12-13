@@ -1,0 +1,4 @@
+[submodule "git-test"]
+	path = git-test
+	url = git@github.com:sn00py1310/git-test.git
+	branch = main
